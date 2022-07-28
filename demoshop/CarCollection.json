@@ -1,0 +1,149 @@
+[
+	{
+		"Name":"Cybertruck",
+		"Description":"The Tesla Cybertruck is the latest in a line of highly anticipated reveals from the all-electric carmaker. What sets this one apart from the rest is that Tesla—the company that makes the number-one selling luxury car in the U.S., the Model 3—is now attacking the truck market.",
+		"Price":0,
+		"ImageUrl":"https://lawlietstudio.github.io/tesla/Cybertruck.png"
+	},
+	{
+		"Name":"Model 3",
+		"Description":"Say hello to the entry-level Tesla, the Model 3 sedan. Starting at just over $40,000, this is the most affordable offering from the American automaker. Tesla introduced the model back in 2017 and we're not expecting significant changes for 2022 compared to last year's model. That said, it's possible the Model 3 could inherit the refreshed Model S' yoke steering wheel and upgraded infotainment hardware. ",
+		"Price":46990,
+		"ImageUrl":"https://lawlietstudio.github.io/tesla/model_3.webp"
+	},
+	{
+		"Name":"Model S",
+		"Description":"Almost a decade after its launch in 2012, the Tesla Model S is getting a much-needed refresh for the 2021.5 or 2022 model year (Tesla doesn't follow model years as closely as other automakers). Two new tri-motor variants are joining the lineup and both the exterior and interior designs have been meaningfully tweaked for the better. This may be exactly what Tesla needs to stay relevant alongside hot newcomers including the 1,080-hp Lucid Air Dream Edition and the Porsche Taycan Turbo S.",
+		"Price":99990,
+		"ImageUrl":"https://lawlietstudio.github.io/tesla/model_s.webp"
+	},
+	{
+		"Name":"Model X",
+		"Description":"One of the first electric luxury SUVs ever made is ready to change the game yet again. The Tesla Model X, an SUV we first drove in 2016, is getting a significant midcycle update, complete with a refreshed exterior and interior, and a three-motor Plaid variant with over 1,000 horsepower. With this significant facelift for the 2021.5 or 2022 model year (Tesla doesn't adhere to model years as strictly as other brands), the Model X should be well-primed to take on electric SUV newcomers including the Rivian R1S and Lucid Gravity.",
+		"Price":114990,
+		"ImageUrl":"https://lawlietstudio.github.io/tesla/model_x.webp"
+	},
+	{
+		"Name":"Model Y",
+		"Description":"This is the Model Y, Tesla's smaller, cheaper sibling to the Model X SUV. Tesla introduced it as a new nameplate in 2020 and we're not expecting any significant changes for 2022, unless the automaker decides to add the yoke steering wheel and updated interior from the recent Model S/X refresh. The Model Y competes with other electric compact luxury SUVs including the Audi Q4 Sportback E-Tron and Volvo C40 Recharge. Some may also compare it to non-electric luxury SUVs including the Volvo XC60 and Jaguar F-Pace.",
+		"Price":62990,
+		"ImageUrl":"https://lawlietstudio.github.io/tesla/model_y.webp"
+	},
+	{
+		"Name":"Roadster",
+		"Description":"As the Model 3 and Model Y take the world by storm, Tesla's success can be traced back to one vehicle: the Roadster. Based on the Lotus Elise, the Roadster went live for the 2008 model year. By Tesla's modern standards, the original Roadster's 220 miles of range and near-4.0-second 0-60 mph time are hardly impressive. But it's an indelible part of the Tesla tale—and now, the Roadster will return. Here's what to expect from the 2022 Tesla Roadster.",
+		"Price":0,
+		"ImageUrl":"https://lawlietstudio.github.io/tesla/roadster.webp"
+	},
+	
+	{
+		"Name":"Ferrari 360 Spider",
+		"Description":"The Ferrari 360 (Type F131) is a two-seater, mid-engine, rear wheel drive sports car manufactured by Italian automotive manufacturer Ferrari from 1999 to 2005. It succeeded the Ferrari F355 and was replaced by the Ferrari F430 in 2004",
+		"Price":176075,
+		"ImageUrl":"https://lawlietstudio.github.io/ferrari/ferrari_360_spider.webp"
+	},
+	{
+		"Name":"Ferrari 488"",
+		"Description":"The 488 Pista and Pista Spider are Ferrari's special edition hyper-focused farewells to the 488. The 488 was Ferrari's first turbocharged mid-engine supercar and its follow-up to the screaming atmospheric 458 Italia. You can think of the Pista as the 458 Speciale or the 430 Scuderia of the 488 range. With the arrival of the brilliant F8 Tributo, 2020 will be the final model year of the 488. The Pista competes with other track-focused supercars, including the Porsche 911 GT2 RS, Lamborghini Huracan Performante, and McLaren 600LT.",
+		"Price":330000,
+		"ImageUrl":"https://lawlietstudio.github.io/ferrari/ferrari_488.jfif"
+	},
+	{
+		"Name":"Ferrari California",
+		"Description":"The 2015 Ferrari California T is powered by a new engine, a turbocharged 3.9-liter V-8 with 553 hp and 557 lb-ft of torque. The turbo V-8 is paired to a seven-speed dual-clutch automatic transmission.",
+		"Price":198973,
+		"ImageUrl":"https://lawlietstudio.github.io/ferrari/ferrari_california.webp"
+	},
+	{
+		"Name":"Ferrari F8",
+		"Description":"Introduced for 2020 as a replacement for the 488 GTB, the F8 Tributo is a proper driver's car. It competes against other mid-engine exotics including the Lamborghini Huracán, McLaren 720S, and the upcoming Maserati MC20. Some buyers may even compare it to the newly mid-engine Chevrolet Corvette. New for the 2021 model year is a hardtop convertible variant called the F8 Spider.",
+		"Price":280000,
+		"ImageUrl":"https://lawlietstudio.github.io/ferrari/ferrari_f8.webp"
+	},
+	{
+		"Name":"Ferrari Roma",
+		"Description":"The Roma is one of Ferrari's new models for 2021; you can think of it as a fixed-roof version of the Portofino hardtop convertible or as the little sibling to the 788-hp 812 Superfast. It is the automaker's first front-engine V-8 coupe. The Roma competes with other exotic GT cars including the Aston Martin Vantage, Mercedes-AMG GT, and Porsche 911 Turbo.",
+		"Price":218670,
+		"ImageUrl":"https://lawlietstudio.github.io/ferrari/Ferrari_Roma.webp"
+	},
+	{
+		"Name":"Ferrari SF90",
+		"Description":"The SF90 is the fastest, most powerful, most expensive production Ferrari on sale. It is Ferrari's second hybrid, a successor to the V-12 LaFerrari, and it boasts the automaker's first hybridized V-8. The new SF90 is also the first mid-engine Ferrari to feature AWD. Nothing currently on the market directly competes with the SF90, but upcoming halo cars including the Aston Martin Valkyrie, Mercedes-AMG Project One, and Lamborghini Sian aim to give the hybrid Ferrari a run for its money.",
+		"Price":507000,
+		"ImageUrl":"https://lawlietstudio.github.io/ferrari/Ferrari_SF90.webp"
+	},
+	
+	{
+		"Name":"BMW 4-Series",
+		"Description":"The second generation 4 Series Gran Coupe is longer, wider, and taller than its predecessor. And for better or for worse, it wears the enormous new dual-opening grille of the other 4 Series models including the Coupe and Convertible, which broke cover last year. The 2022 4 Series Gran Coupe is expected to go on sale in August 2021.",
+		"Price":45200,
+		"ImageUrl":"https://lawlietstudio.github.io/bmw/bmw_4_series.webp"
+	},
+		{
+		"Name":"BMW M2",
+		"Description":"Building on the much-loved M2, the M2 Competition coupe went on sale for 2019 with enhanced power and chassis hardware for more sporting prowess. It may be the smallest, least expensive, and least powerful M car, but the M2 Competition successfully emphasizes fun and involvement more than outright speed.",
+		"Price":58900,
+		"ImageUrl":"https://lawlietstudio.github.io/bmw/bmw_m2.webp"
+	},
+		{
+		"Name":"BMW 8-Series",
+		"Description":"The 8 Series sits atop BMW's lineup as its stylish flagship. Whether configured as a fastback sedan, coupe, or convertible, the 8 Series stuns. It replaced the 6 Series for the 2019 model year and carries over into 2023 with a standard illuminated grille, a new infotainment display, more wheel designs, and new paint choices.",
+		"Price":87500,
+		"ImageUrl":"https://lawlietstudio.github.io/bmw/bmw_8_series.webp"
+	},
+		{
+		"Name":"BMW 2-Series",
+		"Description":"What is the BMW 2 Series? In 2021, it's two very different vehicles that share the same name. The 2 Series started in the U.S. as a small rear-wheel-drive two-door coupe or convertible. That model is now sold in parallel with the 2 Series Gran Coupe, which is an all-wheel-drive subcompact sedan. Both mark an entry point for BMW ownership but still offer fun-to-drive reflexes and lots of tech.",
+		"Price":37700,
+		"ImageUrl":"https://lawlietstudio.github.io/bmw/bmw_2_series.webp"
+	},
+		{
+		"Name":"BMW Z4",
+		"Description":"The BMW Z4's ancestry extends all the way back to 1989, when the Z1 inaugurated a line of roadsters that has endured for decades. Most recently, however, the Z4 shares its origins with the latest Supra, which was co-developed by Toyota and built on the same platform. The Z4 is more comfortable on a highway than a track, but its engines still offer plenty of charm.",
+		"Price":49900,
+		"ImageUrl":"https://lawlietstudio.github.io/bmw/bmw_z4.webp"
+	},
+		{
+		"Name":"BMW 5-Series Diesel",
+		"Description":"The BMW 5 Series is an executive car manufactured and marketed by BMW since 1972, succeeding the New Class Sedans, and currently in its seventh generation.",
+		"Price":57350,
+		"ImageUrl":"https://lawlietstudio.github.io/bmw/bmw_528.webp"
+	},
+	
+		{
+		"Name":"Porsche 911",
+		"Description":"The 911 is one of the longest-running nameplates in the automotive industry. As of 2022, Porsche has been selling 911s for 58 years, and the latest iteration lives up to the hype. The Carrera S even took home our 2019 Best Driver's Car award. ",
+		"Price":101200,
+		"ImageUrl":"https://lawlietstudio.github.io/porsche/porsche_911.webp"
+	},
+		{
+		"Name":"Porsche 718 Boxster",
+		"Description":"The 718 Boxster is the entry point to the world of drop-top Porsche sports cars. Porsche has been building versions of the Boxster since 1997 and it introduced the current, fourth-generation model for 2017. The only change for 2022 is that the 718 Boxster is now included in Porsche's paint-to-sample program.",
+		"Price":0,
+		"ImageUrl":"https://lawlietstudio.github.io/porsche/porsche_718.webp"
+	},
+		{
+		"Name":"Porsche Taycan",
+		"Description":"The Porsche Taycan is the marque's first stab at an all-electric model. In most ways, it's a winner. It's as brilliant to drive as it is to look at, and it provides a promising look at the future of performance cars. The Taycan's weaknesses are its range and efficiency, where the Porsche fails to match rivals like the Tesla Model S. For 2022, versions of the Taycan sedan and Sport Turismo trim wearing Porsche's vaunted GTS badge will be available for the first time.",
+		"Price":82700,
+		"ImageUrl":"https://lawlietstudio.github.io/porsche/porsche_taycan.webp"
+	},
+		{
+		"Name":"Porsche Macan",
+		"Description":"One year after the Macan benefitted from a number of updates inside and out, Porsche is updating the small SUV again. The 2023 Macan T is a new trim in the lineup; here's what you need to know.",
+		"Price":57500,
+		"ImageUrl":"https://lawlietstudio.github.io/porsche/porsche_macan.webp"
+	},
+		{
+		"Name":"Porsche Carrera GT",
+		"Description":"The Porsche Carrera GT (Project Code 980) is a mid-engine[5] sports car that was manufactured by German automobile manufacturer Porsche from 2004 to 2007.[6] Sports Car International named the Carrera GT number one on its list of Top Sports Cars of the 2000s, and number eight on Top Sports Cars of All Time list. For its advanced technology and development of its chassis, Popular Science magazine awarded it the "Best of What's New" award in 2003.",
+		"Price":440000,
+		"ImageUrl":"https://lawlietstudio.github.io/porsche/porsche_carrera.webp"
+	},
+		{
+		"Name":"Porsche Cayman",
+		"Description":"The Porsche Boxster and Cayman are mid-engine two-seater sports cars manufactured and marketed by German automobile manufacturer Porsche across four generations—as a two-door, two-seater roadster (Boxster) and a three-door, two-seater fastback coupé (Cayman).",
+		"Price":52600,
+		"ImageUrl":"https://lawlietstudio.github.io/porsche/porsche_cayman.webp"
+	},
+]
