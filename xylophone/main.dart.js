@@ -52032,7 +52032,7 @@ b2(){var s,r,q,p,o=null
 this.bu()
 s=A.agp(o)
 r=new A.yH(o)
-r.at="http://xylophone.lawlietstudio.com/synchub"
+r.at="https://xylophone.lawlietstudio.com/synchub"
 r.e=s
 r.c=new A.YN(o)
 r.a=B.aL
