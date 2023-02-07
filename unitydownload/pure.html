@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div id="d1"></div>
+    <script>
+        var text = "";
+        var sum = [];
+        var totals = [];
+        var count = 0;
+        for (var i = 1; i <= 6; i++) {
+            totals.push(i);
+            for (var j = 1; j <= 6; j++) {
+                totals.push(j);
+                for (var k = 1; k <= 6; k++) {
+                    totals.push(k);
+                    for (var l = 1; l <= 6; l++) {
+                        totals.push(l);
+                        for (var m = 1; m <= 6; m++) {
+                            totals.push(m);
+                            sum.push([...totals]);
+                            totals.pop();
+                        }
+                        totals.pop();
+                    }
+                    totals.pop();
+                }
+                totals.pop();
+            }
+            totals.pop();
+        }
+        for (var i = 0; i < sum.length; i++) {
+            var numsOf1 = 0;
+            for (var j = 0; j < sum[i].length; j++)
+            {
+                if (sum[i][j] == 1)
+                numsOf1++;
+            }
+            if (numsOf1 == 2)
+            {
+                count++;
+            }
+            text += sum[i].toString() + "  " + (numsOf1 == 2) + "<br/>";
+        }
+        document.getElementById("d1").innerHTML = "Total: " + count + " / " + sum.length + "<br/>";
+        document.getElementById("d1").innerHTML += text;
+    </script>
+</body>
+
+</html>
